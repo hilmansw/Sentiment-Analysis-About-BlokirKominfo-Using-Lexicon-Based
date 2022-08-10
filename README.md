@@ -1,4 +1,4 @@
-# Sentiment Analysis About #BlokirKominfo Using Lexion Based
+# Sentiment Analysis About #BlokirKominfo Using Lexicon Based
 In Indonesia, we recently heard news that the platform blocking policy from the Ministry of Communication and Information of the Republic of Indonesia is related to the PSE (Penyelenggara Sistem Electronic) policy.
 
 With this policy, there is a debate among the public, because most of their income comes from these blocked platforms.
